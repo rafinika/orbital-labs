@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Stelarship",
+    "description": "Portal berita beasiswa, dan pedaftaran beasiswa",
+    "image": "images/products/stellarship.svg",
+    "link": "https://stellarship.net/"
+  },
+  {
+    "title": "Bimbee",
+    "description": "Portal edukasi dan belajar online",
+    "image": "images/products/bimbee.png",
+    "link": "https://bimbee.id"
+  }
+]

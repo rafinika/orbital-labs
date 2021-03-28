@@ -1,14 +1,17 @@
 main:
-  - name: "Services"
+  - name: "Beranda"
+    url: "/"
+    weight: 1
+  - name: "Layanan"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Tim"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Tentang Kami"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Hubungi Kami"
     url: "/contact/"
     weight: 5
 
@@ -16,6 +19,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Hubungi Kami"
     url: "/contact/"
     weight: 2

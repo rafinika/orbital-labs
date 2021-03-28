@@ -1,11 +1,11 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/service.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Layanan kami yang siap mengorbit Anda
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Kami menyediakan layanan solusi digital, mulai dari pembuatan aplikasi web, mobile, desktop hingga solusi digital marketing dan konsultasi IT

@@ -2,10 +2,13 @@
 title: Team
 layout: teams
 permalink: /team/
-intro_image_absolute: true
+intro_image: /images/illustrations/under-construction.svg
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Temui tim kami
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Berikut adalah orang-orang hebat dibalik orbit kami.
+
+*Halaman sedang dibangun*

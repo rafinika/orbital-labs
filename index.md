@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Orbital Labs
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Solusi digital tepat didepan mata Anda
+intro_image: "images/illustrations/home.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Orbital Labs, solusi digital tepat didepan mata.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Apa pun tantangan yang Anda hadapi, Orbital Labs siap mengorbit di sekitar Anda untuk menjadi mitra pengembangan software dan solusi digital yang dapat dipercaya.
