@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Layanan kami yang siap mengorbit Anda
+# Our services will take you to the right digital orbit
 
-Kami menyediakan layanan solusi digital, mulai dari pembuatan aplikasi web, mobile, desktop hingga solusi digital marketing dan konsultasi IT
+Orbital Labs develop solutions to optimize your business value in the digitalization era. We provide one stop IT Solution services from concepting until production for Website Design, Web-Based Application, Mobile Development, Web-Hosting and Digital Marketing.
