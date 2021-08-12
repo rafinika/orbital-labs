@@ -1,27 +1,27 @@
 ---
-title: "Pengembangan Aplikasi Mobile"
+title: "Mobile App. Development"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
 ---
 
-Kami menciptakan solusi perangkat lunak canggih bagi pelanggan kami untuk pembuatan aplikasi mobile. Kami mengembangkan menggunakan berbagai teknologi dan menggunakannya untuk menemukan dan menerapkan solusi yang paling tepat untuk tantangan teknis Anda.
+We create advanced software solutions for our client in mobile based. We develop using various technologies and use them to find and implement the most appropriate solutions for your technical challenges.
 
-### Teknologi yang digunakan
+### Tech in Used
 - React Native
 - Ionic
-- (sedang mempertimbangkan) Flutter
-- (sedang mempertimbangkan) Native Code (Kotlin/Swift)
+- Flutter
+- Native Code (Kotlin/Swift)
 
-### Budaya Pengembangan Aplikasi
+### Dev. Culture
 - UI/UX Solution
 - Agile Process
 - Scrum Methodology
 - Solution Aarchitect
 - DevOps
-- Koputasi Awan/Serverless (AWS)
+- Cloud Computing/Serverless (AWS)
 - Software Resing & QA
 
 ### Portofolio
-- Majalah Mata Air Digital. Link (https://play.google.com/store/apps/details?id=com.orbital.mataair)
+- Majalah Mata Air Digital. Android & iOS
