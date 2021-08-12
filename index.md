@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Orbital Labs, takes you to the digital orbit.
+# Digitalize your business. NOW!
 
 Whatever challenges you face, Orbital Labs is ready to take you around the digital orbit! Let's be a trusted software and digital solutions development partner.
