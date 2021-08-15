@@ -1,14 +1,14 @@
 ---
-title: "Pembuatan Wordpress"
+title: "Wordpress Deployment"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
 layout: service
 ---
 
-Kami juga melayani pembuatan wordpress, pengembangan tema wordpress, manajemen konten wordpress, dan beberapa plugin atau add-ons lainnya. Termasuk juga optimasi SEO wordpress
+We serve wordpress deployment, wordpress theme development, wordpress content management, and several other plugins or add-ons. Including wordpress SEO optimization
 
-### Teknologi
+### Tech. in used
 - Wordpress
 
 
