@@ -40,7 +40,7 @@ bodyClass: page-home
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">Lihat semua Layanan</a>
+        <a class="button button-primary" href="{{ "services" | relative_url }}">See all Services</a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ bodyClass: page-home
 {% if site.data.clients %}
 <div class="strip">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <h2 class="feature-container">Klien Kami</h2>
+    <h2 class="feature-container">Our Clients</h2>
     <div class="row justify-content-center">
 
       {% for client in site.data.clients %}
@@ -83,7 +83,7 @@ bodyClass: page-home
           <h2 class="feature-title">{{ client.title }}</h2>
           <div class="feature-content">{{ client.description }}</div>
           {% if client.link %}
-          <a href={{client.link}} target="_blank">Lihat</a>
+          <a href={{client.link}} target="_blank">Detail</a>
           {% endif %}
         </div>
       </div>
@@ -97,7 +97,7 @@ bodyClass: page-home
 {% if site.data.products %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <h2 class="feature-container">Produk Kami</h2>
+    <h2 class="feature-container">Product Portofolio</h2>
     <div class="row justify-content-center">
 
       {% for product in site.data.products %}
@@ -109,7 +109,7 @@ bodyClass: page-home
           <h2 class="feature-title">{{ product.title }}</h2>
           <div class="feature-content">{{ product.description }}</div>
           {% if product.link %}
-          <a href={{product.link}} target="_blank">Lihat</a>
+          <a href={{product.link}} target="_blank">Detail</a>
           {% endif %}
         </div>
       </div>
